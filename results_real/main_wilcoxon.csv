@@ -1,0 +1,6 @@
+instance,A,B,mean_cost_A,mean_cost_B,wilcoxon_p,significant_at_0.05,lower_cost
+real_sem7_cse_b,ga,sa,1000.0,0.0,1.0,False,sa
+real_sem7_cse_b,memetic,ga,0.0,1000.0,1.0,False,memetic
+real_sem7_cse_b,memetic,sa,0.0,0.0,1.0,False,tie
+real_sem7_cse_b,ga,random,1000.0,32009.0,0.002,True,ga
+real_sem7_cse_b,sa,random,0.0,32009.0,0.002,True,sa

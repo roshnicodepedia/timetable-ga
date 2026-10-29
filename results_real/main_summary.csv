@@ -1,0 +1,6 @@
+instance,method,runs,success_rate_%,hard_mean,hard_std,soft_mean,soft_std,soft_mean_feasible_only,cost_mean,cost_median,cost_best,evals_to_first_feasible_mean,time_s_mean
+real_sem7_cse_b,Random search,10,0.0,3.2,0.4,9.0,3.69,,32009.0,30010.0,30006,,24.95
+real_sem7_cse_b,Greedy,10,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1.0,0.03
+real_sem7_cse_b,Simulated Annealing,10,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,805.0,1.7
+real_sem7_cse_b,Genetic Algorithm,10,90.0,0.1,0.3,0.0,0.0,0.0,1000.0,0.0,0,6190.0,6.05
+real_sem7_cse_b,GA + local search,10,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1159.0,1.02
